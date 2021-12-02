@@ -23,11 +23,4 @@ int FindMax(int n, int m, int a[]) {
 	return -1;
 }
 
-int main() {
-	int n, m;
-	cin >> n >> m;
-	int a[n];
-	for (int i = 0; i < n; i++) cin >> a[i];
-	cout << FindMax(n, m, a);
-}
 
