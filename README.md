@@ -1,12 +1,12 @@
 
 # Factorial of large numbers
-  - [Explanation](##Definition_of_factorial)
-    - [Approach](###Approch)
-    - [Algorithm](##Algorithm)
-    - [Practice Problem](##Practice_Problem)
-    - [Time and Space Complexity](##Time_and_Space_Complexity)
-    - [Advantages](##Advantages)
-    - [Disadvantage](##Disadvantage)
+  - [Explanation](#Definition_of_factorial)
+    - [Approach](#Approach_to_find_factorial_of_large_numbers)
+    - [Algorithm](#Algorithm)
+    - [Practice Problem](#Practice_Problem)
+    - [Time and Space Complexity](#Time_and_Space_Complexity)
+    - [Advantages](#Advantages)
+    - [Disadvantage](#Disadvantage)
 ## Definition of factorial
   ` N! = N * (N-1) * (N-2) * ... * 3 * 2 * 1`
     
