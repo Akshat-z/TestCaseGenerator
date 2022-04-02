@@ -1,12 +1,12 @@
 
 # Factorial of large numbers
-  - [Explanation](#Definitionoffactorial)
-    - [Approach](#Approch)
-    - [Algorithm](#algorithm)
-    - [Practice Problem](#PracticeProblem)
-    - [Time and Space Complexity](#TimeandSpaceComplexity)
-    - [Advantages](#advantages)
-    - [Disadvantage](#disadvantage)
+  - [Explanation](##Definition_of_factorial)
+    - [Approach](###Approch)
+    - [Algorithm](##Algorithm)
+    - [Practice Problem](##Practice_Problem)
+    - [Time and Space Complexity](##Time_and_Space_Complexity)
+    - [Advantages](##Advantages)
+    - [Disadvantage](##Disadvantage)
 ## Definition of factorial
   ` N! = N * (N-1) * (N-2) * ... * 3 * 2 * 1`
     
@@ -39,7 +39,7 @@ The digits are multiplied from rightmost digit to leftmost digit, as the digits 
 
 ![](https://www.algotree.org/images/Large_Factorial.svg)
 
-## Algorithm:
+## Algorithm :
   ```
   
    declare res array.
